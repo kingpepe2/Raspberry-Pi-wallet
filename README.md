@@ -51,9 +51,7 @@ nano $HOME/.kingpepe/kingpepe.conf -t
 
 Paste the following into nano.
 
-addnode=kpepesolo.pool.sexy:21053
-
-addnode=kpepe.pool.sexy:11053
+addnode=node3.walletbuilders.com
 
 
 Save the file with the keyboard shortcut ctrl + x.
