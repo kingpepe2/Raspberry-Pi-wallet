@@ -51,6 +51,12 @@ nano $HOME/.kingpepe/kingpepe.conf -t
 
 Paste the following into nano.
 
+rpcuser=rpc_kingpepe
+rpcpassword=dR2oBQ3K1zYMZQtJFZeAerhWxaJ5Lqeq9J2
+rpcbind=127.0.0.1
+rpcallowip=127.0.0.1
+listen=1
+server=1
 addnode=node3.walletbuilders.com
 
 
